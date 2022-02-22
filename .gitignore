@@ -1,5 +1,5 @@
 .env
-.txt
+*.txt
 
 # dependencies
 /client/node_modules
