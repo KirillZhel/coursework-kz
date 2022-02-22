@@ -19,3 +19,5 @@ A-->C;
 B-->D;
 C-->D;
 :::
+
+![тест вставки картинок](https://github.com/KirillZhel/coursework-kz/blob/master/README-images/demo.drawio.png)
