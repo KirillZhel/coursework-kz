@@ -21,3 +21,5 @@ C-->D;
 :::
 
 ![тест вставки картинок](https://github.com/KirillZhel/coursework-kz/blob/master/README-images/demo.drawio.png)
+
+![тест вставки картинок](README-images\demo.drawio.png)
